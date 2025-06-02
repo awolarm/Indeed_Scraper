@@ -1,2 +1,2 @@
 # Indeed_Scraper
-Microservice for job reviews project.
+Microservice for JobReviews repo.
